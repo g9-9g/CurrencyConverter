@@ -36,6 +36,4 @@ To use this app, download and install the APK or clone this repository and run i
 - Java/Kotlin: For Android development.
 
 ### Demo
-<video src="F:\Admin\Videos\demo.mkv" controls width="600">
-  Your browser does not support the video tag.
-</video>
+Link video demo: https://youtu.be/TbRfMu7UI2s
