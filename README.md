@@ -7,8 +7,6 @@ A simple, fast, and lightweight Android app to help users convert currency betwe
 - **Real-Time Exchange Rates**: Get up-to-date conversion rates for multiple currencies.
 - **Multiple Currency Support**: Convert between a wide range of currencies worldwide.
 - **User-Friendly Interface**: Simple, clean design with an intuitive layout for quick access.
-- **Offline Mode**: Save recent exchange rates for offline access (if available).
-- **Customizable Settings**: Choose your default currencies and update intervals.
 
 ## Getting Started
 
